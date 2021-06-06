@@ -12,7 +12,7 @@ computes the values in the background.
 
 3. To create the Docker images and build the application run `docker-compose up --build` or `docker compose up --build`.
 
-4. After successfully building the application, open your browser and go to **localhost:8080** to use the application.
+4. After successfully building the application, open your browser and go to **http://localhost:8080** to use the application.
 
 
 ## To Stop The Application 
