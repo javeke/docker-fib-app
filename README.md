@@ -8,11 +8,13 @@ computes the values in the background.
 
 1. Clone the repository to your local machine and ensure you have Docker running on your machine. 
 
-2. Navigate to the complex directory by running `cd complex`
+2. Navigate to the complex directory by running `cd complex`.
 
-3. To create the Docker images and build the application run `docker-compose up --build` or `docker compose up --build`
+3. To create the Docker images and build the application run `docker-compose up --build` or `docker compose up --build`.
+
+4. After successfully building the application, open your browser and go to ** localhost:8080 ** to use the application.
 
 
 ## To Stop The Application 
 
-Run `docker-compose down` or `docker compose down`
+Run `docker-compose down` or `docker compose down`.
